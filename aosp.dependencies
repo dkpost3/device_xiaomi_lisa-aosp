@@ -6,15 +6,15 @@
     "branch": "thirteen"
   },
   {
-    "remote": "github",
     "repository": "yaap/vendor_xiaomi_lisa",
     "target_path": "vendor/xiaomi/lisa",
+    "remote": "github",
     "branch": "thirteen"
   },
   {
+    "repository": "yaap/kernel_xiaomi_lisa",
+    "target_path": "kernel/xiaomi/lisa",
     "remote": "github",
-    "repository"   : "yaap/kernel_xiaomi_lisa",
-    "target_path"  : "kernel/xiaomi/lisa",
     "branch": "thirteen"
   },
   {
@@ -24,9 +24,9 @@
     "branch": "thirteen"
   },
   {
-    "remote": "gitlab",
     "repository": "yaosp/vendor_xiaomi_lisa-miuicamera",
     "target_path": "vendor/xiaomi/lisa-miuicamera",
+    "remote": "gitlab",
     "branch": "thirteen"
   }
 ]
