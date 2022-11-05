@@ -1,14 +1,18 @@
 [
   {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  },
+  {
     "remote": "github",
     "repository": "yaap/vendor_xiaomi_lisa",
-    "target_path": "vendor/xiaomi/lisa"
+    "target_path": "vendor/xiaomi/lisa",
     "branch": "thirteen"
   },
   {
     "remote": "github",
     "repository"   : "yaap/kernel_xiaomi_lisa",
-    "target_path"  : "kernel/xiaomi/lisa"
+    "target_path"  : "kernel/xiaomi/lisa",
     "branch": "thirteen"
   },
   {
